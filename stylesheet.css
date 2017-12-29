@@ -115,4 +115,8 @@ img {
     .img > img {
         width: 150px;
     }
+
+    .main__body > div p{
+        flex: 0 0 50%;
+      }
 }
